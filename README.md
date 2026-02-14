@@ -30,15 +30,10 @@ This project implements the classic 3x3 Tic-Tac-Toe game played between two play
 All files are located in the root directory:
 
 Tic-Tac-Toe/
-
 ├── main.c        # Program entry point 
-
 ├── play.c        # Game logic and board handling 
-
 ├── header.h      # Function declarations and shared definitions 
-
 ├── README.md 
-
 └── .gitignore
 
 ## Compilation
